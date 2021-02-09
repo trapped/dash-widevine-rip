@@ -2,7 +2,7 @@
 
 Small utility for downloading, decrypting and combining playlists of DASH streams, usually found in video courses.
 
-Given Widevine keys (CENC) decrypts each file part (audio, video).
+Given Widevine keys (CENC) decrypts each file part (audio, video). Keys can be obtained (on Chrome for Windows) using the `widevine-l3-decryptor` extension (which has been DMCA'd on GitHub, but is still available on various mirrors).
 
 Requires `ffmpeg`.
 
